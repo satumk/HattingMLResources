@@ -16,6 +16,7 @@
 - [OWASP ML Top10](https://owasp.org/www-project-machine-learning-security-top-10/)
 - [NIST AI 100-2 E2023 Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
 - [MITRE ALTAS](https://atlas.mitre.org/)
+- [Google SAIF (AI security) framework](https://safety.google/cybersecurity-advancements/saif/)
 
 ## More general resources for cybersecurity
 
