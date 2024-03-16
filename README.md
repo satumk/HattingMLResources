@@ -1,5 +1,3 @@
-# HattingMLResources
-
 ## Red/White Hat Resources
 
 ### Frameworks, blogs, and articles
