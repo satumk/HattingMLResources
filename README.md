@@ -3,7 +3,7 @@
 ### Frameworks, blogs, and articles
 - [Offensive ML playbook](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook)
 - [Embrace the Red](https://embracethered.com/blog/)
-- [Planning red teaming for large language models (LLMs) and their applications](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)
+- [Microsoft - Planning red teaming for large language models (LLMs) and their applications](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)
 
 ### Open source tools
 - PyRIT - Microsoft released open access red teaming tool for Generative AI. [HackerNews article on the topic](https://thehackernews.com/2024/02/microsoft-releases-pyrit-red-teaming.html)
